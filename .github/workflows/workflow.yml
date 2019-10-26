@@ -1,4 +1,6 @@
-on: push
+on: 
+push:
+  -master
 name: Main Workflow
 jobs:
   sonarCloudTrigger:
