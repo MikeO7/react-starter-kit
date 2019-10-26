@@ -1,7 +1,4 @@
-
-
-[![Build](https://github.com/MikeO7/react-starter-kit/workflows/Build/badge.svg)]
-
+![Build](https://github.com/MikeO7/react-starter-kit/workflows/Build/badge.svg)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=MikeO7_react-starter-kit&metric=security_rating)](https://sonarcloud.io/dashboard?id=MikeO7_react-starter-kit)
 
 # react-starter-kit
